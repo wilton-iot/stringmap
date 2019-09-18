@@ -16,5 +16,10 @@
     "__proto__"
   ],
   "author": "Olov Lassus <olov.lassus@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "wilton": {
+    "excludes": [
+       "examples.js"
+    ]
+  }
 }
